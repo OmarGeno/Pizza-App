@@ -7,7 +7,7 @@
 
 
 #### 2.Choose the way to select a pizza
-<img style="center" src="https://github.com/OmarGeno/Pizza-App/blob/main/README%20Images/pizza2.png?raw=true"/> 
+<img style="center border" src="https://github.com/OmarGeno/Pizza-App/blob/main/README%20Images/pizza2.png?raw=true"/> 
 <img style="center" src="https://github.com/OmarGeno/Pizza-App/blob/main/README%20Images/pizza3.png?raw=true"/> 
 
 
